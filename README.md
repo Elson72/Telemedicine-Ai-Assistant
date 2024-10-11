@@ -19,3 +19,8 @@ Provide a brief explanation of each functionality:
 - **Lead Generation**: Captures user information for potential follow-up and marketing purposes.
 
 
+  ### Target Audience
+
+  The primary users will be patients seeking convenient and efficient healthcare solutions, as well as healthcare providers looking to improve patient engagement and streamline operations.
+
+
