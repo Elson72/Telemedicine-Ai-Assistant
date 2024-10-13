@@ -29,7 +29,9 @@ Provide a brief explanation of each functionality:
   #### Workflow Components:
   -**User Authentication**:
   1. ***Sign-Up***: New users can register through the assistant, with their information automatically saved in a CRM powered by Airtable via Make.com automation.
-  2. ***Login***: Registered users log in using their email, validated through a one-time code sent to their inbox. User data is fetched from Airtable using Make.com integration.
+       ![sign up workflow](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/itura%20sign%20up.png)
+     
+  3. ***Login***: Registered users log in using their email, validated through a one-time code sent to their inbox. User data is fetched from Airtable using Make.com integration.
 
  -**Symptom Assessment**:
 Leverages GPT-4 to conduct a preliminary assessment of user symptoms through engineered prompts, providing personalized feedback based on user input.
