@@ -23,4 +23,22 @@ Provide a brief explanation of each functionality:
 
   The primary users will be patients seeking convenient and efficient healthcare solutions, as well as healthcare providers looking to improve patient engagement and streamline operations.
 
+  ### Workflows and Automations
+  This project implements an AI Conversational Assistant workflow using Voiceflow, integrating various automation tools to enhance user experience and streamline operations.
+
+  #### Workflow Components:
+  -**User Authentication**:
+  1. ***Sign-Up***: New users can register through the assistant, with their information automatically saved in a CRM powered by Airtable via Make.com automation.
+  2. ***Login***: Registered users log in using their email, validated through a one-time code sent to their inbox. User data is fetched from Airtable using Make.com integration.
+
+ -**Symptom Assessment**:
+Leverages GPT-4 to conduct a preliminary assessment of user symptoms through engineered prompts, providing personalized feedback based on user input.
+
+ -**Virtual Doctor Booking**:
+Users can schedule virtual consultations via Google Meet. Bookings are automated through Make.com and registered in the Airtable CRM for record-keeping and follow-up.
+
+ -**Test Booking**:
+The workflow includes an intent flow for booking medical tests. Users can view available tests fetched from Airtable, with each booking automatically logged into the CRM via Make.com automation.
+This workflow exemplifies an efficient, automated approach to user interaction and service delivery, enhancing the overall healthcare experience for users.
+
 
