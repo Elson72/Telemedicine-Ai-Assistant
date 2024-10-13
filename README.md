@@ -30,6 +30,7 @@ Provide a brief explanation of each functionality:
   -**User Authentication**:
   1. ***Sign-Up***: New users can register through the assistant, with their information automatically saved in a CRM powered by Airtable via Make.com automation.
        ![sign up workflow](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/itura%20sign%20up.png)
+       ![Assistant chat](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/chat%20assistant%20start.jpg)
      
   3. ***Login***: Registered users log in using their email, validated through a one-time code sent to their inbox. User data is fetched from Airtable using Make.com integration.
 
