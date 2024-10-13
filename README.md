@@ -33,6 +33,7 @@ Provide a brief explanation of each functionality:
        ![Assistant chat](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/chat%20assistant%20start.jpg)
      
   3. ***Login***: Registered users log in using their email, validated through a one-time code sent to their inbox. User data is fetched from Airtable using Make.com integration.
+     ![log in work flow](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/itura%20log%20in.png)
 
  -**Symptom Assessment**:
 Leverages GPT-4 to conduct a preliminary assessment of user symptoms through engineered prompts, providing personalized feedback based on user input.
