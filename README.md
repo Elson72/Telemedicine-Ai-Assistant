@@ -1,6 +1,18 @@
 # Telemedicine-Ai-Assistant Prototype Project
 
 ## Outline
+- [Problem statement]()
+- [Project Overview]()
+- [Technologies Used]()
+- [Functionality Overview]()
+- [Target Audience]()
+- [Workflows and Automations]()
+- [Demo Video]()
+- [Market Analysis]()
+- [Impact](impact)
+- [Possible Expanding Capabilities]()
+- [Possible challenges and limitations]()
+- [Conclusion](conclusion)
 
 
 
@@ -104,7 +116,7 @@ This workflow exemplifies an efficient, automated approach to user interaction a
   6. Give healthcare providers more time to focus on actual patient care rather than repetitve administrative works.
 
 
-  ### Possible Expanding Capabilities:
+  ### Possible Expanding Capabilities
   -  Ai Powered Medication reminders.
   -  Insurance Payment plans and billing reminders.
   -  Nearby healthcare faciltiy/provider locator.
