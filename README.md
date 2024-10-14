@@ -30,32 +30,46 @@ Provide a brief explanation of each functionality:
   -**User Authentication**:
   1. ***Sign-Up***: New users can register through the assistant, with their information automatically saved in a CRM powered by Airtable via Make.com automation.
        ![sign up workflow](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/itura%20sign%20up.png)
+     
        ![Assistant chat](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/chat%20assistant%20start.jpg)
      
   3. ***Login***: Registered users log in using their email, validated through a one-time code sent to their inbox. User data is fetched from Airtable using Make.com integration.
      ![log in work flow](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/itura%20log%20in.png)
+     
      ![log in](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/chat%20assistant%20log%20in%20one%20time%20code.jpg)
+     
      ![successful log in](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/chat%20assistant%20successful%20log%20in%20and%20main%20menu.jpg)
+     
       ![one time code](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/one%20time%20code%20inbox%20message.jpg)
 
  -**Symptom Assessment**:
 Leverages GPT-4 to conduct a preliminary assessment of user symptoms through engineered prompts, providing personalized feedback based on user input.
      ![symptom assesment workflow](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/itura%20symptom%20assessment.png)
+     
      ![symptom assesment](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/chat%20assistant%20symptom%20assesment.jpg)
 
  -**Virtual Doctor Booking**:
 Users can schedule virtual consultations via Google Meet. Bookings are automated through Make.com and registered in the Airtable CRM for record-keeping and follow-up.
-   ![](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/appointment%20sechedule%20and%20availability%20check.png)
-    ![](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/aitable%20doctor%20appointment.png)
-     ![]()
+   ![workflow](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/appointment%20sechedule%20and%20availability%20check.png)
+   
+    ![airtable doc bookings](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/aitable%20doctor%20appointment.png)
+    
+     ![doctor appointment confirmation](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/doctor%20appointment%20%20confirmation.png)
    
 
  -**Test Booking**:
 The workflow includes an intent flow for booking medical tests. Users can view available tests fetched from Airtable, with each booking automatically logged into the CRM via Make.com automation.
 This workflow exemplifies an efficient, automated approach to user interaction and service delivery, enhancing the overall healthcare experience for users.
    ![test workflow](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/Test%20start.png)
+   
    ![test booking](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/test%20booking.png)
+   
    ![test info](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/test%20info%20fetch.png)
+   
    ![test info](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/tests%20details.png)
+   
+   ![test bookings](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/airtable%20test%20booking.png)
+   
+   ![test confirmation](https://github.com/Elson72/Telemedicine-Ai-Assistant/blob/main/test%20booking%20confirmation.png)
 
 
