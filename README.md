@@ -140,7 +140,9 @@ This workflow exemplifies an efficient, automated approach to user interaction a
    ### Conclusion
    This Telemedicine Ai assistant prototype demonstrates significant potential to transform healthcare delivery, improving accessibility, efficiency amd patient outcomes, therefore the 
    need to address technical, financial, clinical and regulatory limitations.
-     
+
+  ### Disclaimer
+  This project is not related to the company itura, and where the name 'itura' appears does not pose any representation of them, the project is just for demonstration purpose showcasing the potential for telemedicine Ai assistant to change the way we deliver healthcare through simplyfying processes and automating repeated tasks.
    
    
    
